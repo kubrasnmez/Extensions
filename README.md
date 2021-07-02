@@ -1,8 +1,8 @@
-## Chrome Extension
+# Chrome Extension
 
-#### Pomodro Timer
+## Pomodro Timer
 
-##### Project Images
+### Project Images
 
 ![pomodrotimer](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/pomodro.png) 
 
@@ -12,15 +12,15 @@
 
 ![pomodrotimer](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/pomodro3.png) 
 
-#### TV Show 
+## TV Show 
 
-##### Project Image
+### Project Image
 
 ![tvshow](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/tvshop.png) 
 
-#### Timer Extension
+## Timer Extension
 
-##### Project Images
+### Project Images
 
 ![timerextension](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/timer.png) 
 
@@ -28,9 +28,9 @@
 
 ![timerextension](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/timer3.png) 
 
-### Linkedin Extension 
+# Linkedin Extension 
 
-##### Project Image
+### Project Image
 
 ![linkedinextension](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/linkedin.png) 
 
