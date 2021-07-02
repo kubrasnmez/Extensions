@@ -1,6 +1,6 @@
 # Chrome Extension
 
-# Linkedin Extension 
+## Linkedin Extension 
 
 ### Project Image
 
