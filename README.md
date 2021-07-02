@@ -1,33 +1,5 @@
 # Chrome Extension
 
-## Pomodro Timer
-
-### Project Images
-
-![pomodrotimer](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/pomodro.png) 
-
-![pomodrotimer](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/pomodro1.png) 
-
-![pomodrotimer](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/pompdro2.png) 
-
-![pomodrotimer](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/pomodro3.png) 
-
-## TV Show 
-
-### Project Image
-
-![tvshow](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/tvshop.png) 
-
-## Timer Extension
-
-### Project Images
-
-![timerextension](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/timer.png) 
-
-![timerextension](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/timer2.png) 
-
-![timerextension](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/timer3.png) 
-
 # Linkedin Extension 
 
 ### Project Image
@@ -73,6 +45,36 @@
 <td> webpack-cli</td>
 </tr>
 </table>
+
+## Pomodro Timer
+
+### Project Images
+
+![pomodrotimer](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/pomodro.png) 
+
+![pomodrotimer](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/pomodro1.png) 
+
+![pomodrotimer](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/pompdro2.png) 
+
+![pomodrotimer](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/pomodro3.png) 
+
+## TV Show 
+
+### Project Image
+
+![tvshow](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/tvshop.png) 
+
+## Timer Extension
+
+### Project Images
+
+![timerextension](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/timer.png) 
+
+![timerextension](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/timer2.png) 
+
+![timerextension](https://github.com/kubrasnmez/Extensions/blob/main/extensionImage/timer3.png) 
+
+
 
 
 
